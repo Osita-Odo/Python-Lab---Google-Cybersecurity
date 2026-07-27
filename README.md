@@ -10,16 +10,6 @@ These labs work through Python fundamentals from the perspective of a security a
 
 The series is progressive. It starts with assigning variables and inspecting data types, moves through conditional logic and loops, then introduces string manipulation and functions, and finishes by combining all of these into a reusable algorithm that verifies both a user's identity and their assigned device. A reference guide summarising the Module 1 concepts is included as a quick lookup.
 
-## Knowledge gained
-
-- **Variables and data types** — assigning and reassigning variables, and using `type()` to identify strings, lists, integers, and Booleans.
-- **Conditional logic** — controlling program flow with `if`, `elif`, and `else`, and combining conditions using `and`, `or`, `not`, and the `in` membership operator.
-- **Iteration** — repeating actions with `for` and `while` loops, controlling repetition with `range()`, and exiting early with `break`.
-- **String handling** — converting types with `str()`, measuring length with `len()`, concatenating with `+`, slicing and indexing with bracket notation, and locating substrings with `.index()`.
-- **Functions** — defining functions with `def`, passing parameters, adding parameters incrementally, returning values with `return`, and reusing returned values in later logic.
-- **List operations** — adding and removing elements with `.append()` and `.remove()`, finding positions with `.index()`, and linking two synchronised lists by shared index.
-- **Algorithm design** — combining conditionals, loops, functions, and list operations into a nested, reusable login-verification routine.
-- **Security application** — applying each concept to practical analyst tasks such as allow-list checks, anomaly alerts, and ID standardisation.
 
 ## Labs
 
@@ -35,3 +25,13 @@ The series is progressive. It starts with assigning variables and inspecting dat
 | 08 | [Python concepts reference (Module 1)](08_Python_concepts_reference_module_1.md)| Quick reference                              | Comments, functions, conditionals, loops |
 | 09 | [Define and call a function (alternate)](09_Define_and_call_a_function_alt.md)  | Printing inside vs outside a loop            | Loop output behaviour |
 
+## Knowledge gained
+
+- **Variables and data types** — assigning and reassigning variables, and using `type()` to identify strings, lists, integers, and Booleans.
+- **Conditional logic** — controlling program flow with `if`, `elif`, and `else`, and combining conditions using `and`, `or`, `not`, and the `in` membership operator.
+- **Iteration** — repeating actions with `for` and `while` loops, controlling repetition with `range()`, and exiting early with `break`.
+- **String handling** — converting types with `str()`, measuring length with `len()`, concatenating with `+`, slicing and indexing with bracket notation, and locating substrings with `.index()`.
+- **Functions** — defining functions with `def`, passing parameters, adding parameters incrementally, returning values with `return`, and reusing returned values in later logic.
+- **List operations** — adding and removing elements with `.append()` and `.remove()`, finding positions with `.index()`, and linking two synchronised lists by shared index.
+- **Algorithm design** — combining conditionals, loops, functions, and list operations into a nested, reusable login-verification routine.
+- **Security application** — applying each concept to practical analyst tasks such as allow-list checks, anomaly alerts, and ID standardisation.
