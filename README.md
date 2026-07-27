@@ -22,8 +22,7 @@ The series is progressive. It starts with assigning variables and inspecting dat
 | 05 | [Define and call a function](05_Define_and_call_a_function.md)                  | Alerts, list-to-string conversion            | `def`, function calls, concatenation |
 | 06 | [Create more functions](06_Create_more_functions.md)                            | Analysing failed logins                      | `sorted()`, `max()`, parameters, `return` |
 | 07 | [Develop an algorithm](07_Develop_an_algorithm.md)                              | Matching users to devices                    | `.append()`, `.remove()`, `.index()`, nested conditionals |
-| 08 | [Python concepts reference (Module 1)](08_Python_concepts_reference_module_1.md)| Quick reference                              | Comments, functions, conditionals, loops |
-| 09 | [Define and call a function (alternate)](09_Define_and_call_a_function_alt.md)  | Printing inside vs outside a loop            | Loop output behaviour |
+| 08 | [Define and call a function (alternate)](09_Define_and_call_a_function_alt.md)  | Printing inside vs outside a loop            | Loop output behaviour |
 
 ## Knowledge gained
 
