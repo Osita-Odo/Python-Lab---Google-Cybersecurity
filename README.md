@@ -13,8 +13,8 @@ The series is progressive. It starts with assigning variables and inspecting dat
 
 ## Labs
 
-| # | Lab                                                                             | Focus                                         | Key concepts |
-| --- | ---                                                                           | ---                                           | ---                             |
+| # | Lab                                                                              | Focus                                         | Key concepts |
+| --- | ---                                                                            | ---                                           | ---                             |
 | 01 | [Assign Python variables](01_Assign_Python_variables.md)                        | Tracking login information                   | Variables, `type()`, data types |
 | 02 | [Create a conditional statement](02_Create_a_conditional_statement.md)          | OS update checks, access control             | `if`/`elif`/`else`, `in`, `and`/`or` |
 | 03 | [Create loops](03_Create_loops.md)                                              | Connection attempts, IP checks, ID generation| `for`, `while`, `range()`, `break` |
